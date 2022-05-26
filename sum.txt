@@ -1,5 +1,5 @@
 sum of two number is 
 2 + 2 =4
 sumof 3 number
-sum of 4 number is 
-4+4+4+4=
+
+
